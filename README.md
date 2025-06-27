@@ -7,7 +7,6 @@
 
 > Projeto simples e funcional de um jogo clássico de Jokenpô (Pedra, Papel e Tesoura), desenvolvido com foco em aprendizado colaborativo.
 
----
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -15,13 +14,13 @@
 - Biblioteca `random`
 - IDE PyCharm (ou qualquer editor de sua preferência)
 
----
+
 
 ## 👨‍💻 Desenvolvedor
 
 [Luca Macedo](https://www.linkedin.com/in/luca-macedo-659124219/)
 
----
+
 
 ## 🎯 Objetivo
 
@@ -32,7 +31,7 @@ Criar um jogo simples e interativo em Python para reforçar conceitos como:
 - Laços de repetição (`while`)
 - Interação com o usuário
 
----
+
 
 ## 🎮 Funcionalidades
 
@@ -42,7 +41,7 @@ Criar um jogo simples e interativo em Python para reforçar conceitos como:
 - Lógica de vitória, empate ou derrota
 - Possibilidade de jogar novamente sem reiniciar o programa
 
----
+
 
 ## 🚀 Como Executar
 
